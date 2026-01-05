@@ -21,19 +21,23 @@
 
 ## 🌟 Summary  
 
-💡 I am OM JAGDALE, a passionate AI, ML & Computer Vision enthusiast 🚀
-I specialize in the end-to-end AI/ML lifecycle — from data collection, preprocessing, feature engineering, and model development to evaluation, optimization, deployment, and scalable production systems.
-🔹 Focus Areas
-Machine Learning & Deep Learning: Supervised, Unsupervised, and Reinforcement Learning
-Computer Vision: Object detection, image classification, segmentation, and real-time inference
-Large Language Models (LLMs): Fine-tuning, RAG pipelines, prompt engineering, and domain adaptation
-Generative AI: GANs, text generation, synthetic data creation, and multimodal AI systems
-LangChain & Graph-based AI: Structured reasoning, agent workflows, and knowledge integration
-GPU Computing & Parallelization: CUDA-aware training, inference optimization, and performance tuning
-AI Systems & Compiler Concepts: Applying compiler design principles to optimize ML pipelines and inference
-MLOps & Deployment: CI/CD pipelines, containerization (Docker), cloud deployment, scaling, and monitoring
-🌱 I consistently combine strong theoretical foundations, system-level engineering, and applied research to build robust, efficient, and scalable AI systems suitable for real-world and production environments.
+💡 I am *OM JAGDALE, a passionate **AI,ML & Computer Vision enthusiast* 🚀  
+I specialize in the *end-to-end Machine Learning lifecycle* — from *data preprocessing, feature engineering, and model training* to *evaluation, optimization, deployment, and scaling*.  
+
+🔹 *Focus Areas*  
+•⁠  ⁠Machine Learning & Deep Learning (Supervised, Unsupervised, Reinforcement Learning)  
+•⁠  ⁠Large Language Models (LLMs): fine-tuning, RAGs, prompt engineering, domain adaptation  
+•⁠  Computer Vision: Object detection, image classification, segmentation, and real-time inference  
+•⁠  ⁠Generative AI: text generation, synthetic data, and multimodal systems  
+•⁠  ⁠LangChain & Graph-based ML for structured reasoning and knowledge integration  
+•⁠  ⁠GPU Computing & Parallelization for accelerating ML models  
+•⁠  ⁠Compiler Design concepts applied to AI system optimization  
+•⁠  ⁠MLOps & Deployment: CI/CD, containerization, cloud scaling, and monitoring  
+
+🌱 Always combining *theory, engineering, and research* to build *intelligent, scalable AI systems*.  
+
 ---
+
 
 ## 🛠️ Tech Stack  
 
