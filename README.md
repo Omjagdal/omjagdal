@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://ik.imagekit.io/jjmys3hcp/Try%20Diagram%20-%20The%20most%20complete%20Nocode%20API%20builder.jpg?updatedAt=1760613578753" alt="Logo" width="60" style="vertical-align: middle; margin-right: 15px;" />
   <span>OM JAGDALE</span>
 </h1>
 
