@@ -69,6 +69,7 @@ I specialize in the *end-to-end Machine Learning lifecycle* — from *data prepr
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-0E1117?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-0FA4AF?style=for-the-badge&logo=graphql&logoColor=white" />
 
 </div>
 
