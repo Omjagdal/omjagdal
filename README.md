@@ -20,7 +20,7 @@
 
 ## 🌟 Summary  
 
-💡 I am *OM JAGDALE, a passionate **AI,ML & Computer Vision enthusiast* 🚀  
+💡 I am *OM JAGDALE, a passionate **AI,ML & Computer Vision enthusiast*  
 I specialize in the *end-to-end Machine Learning lifecycle* — from *data preprocessing, feature engineering, and model training* to *evaluation, optimization, deployment, and scaling*.  
 
 🔹 *Focus Areas*  
